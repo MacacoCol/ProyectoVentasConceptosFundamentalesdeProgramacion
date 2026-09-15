@@ -1,0 +1,10 @@
+P1;Arroz;34000
+P2;Aceite;31000
+P3;Azúcar;6000
+P4;Café;10000
+P5;Leche;9000
+P6;Huevos;12000
+P7;Pan;6000
+P8;Chocolate;49000
+P9;Queso;47000
+P10;Frijol;23000

@@ -1,0 +1,8 @@
+CC;40158952;Luis;Rodríguez Moreno
+CC;32237470;Laura;Moreno Gómez
+CC;52224014;Paula;Hernández Gómez
+CC;57788480;Valentina;González Pérez
+CC;52350843;Paula;Díaz Rodríguez
+CC;86457047;Paula;Díaz Rodríguez
+CC;74150334;Luis;Díaz Pérez
+CC;83704798;Santiago;Gómez Moreno
