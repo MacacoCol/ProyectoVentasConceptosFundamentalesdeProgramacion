@@ -17,8 +17,8 @@ import java.util.HashMap;
  * Las ventas con productos que no existen o cantidades negativas se ignoran.
  *
  * @author Julian David Gutierrez Forero
- * @author (Santiago Garcia Castañeda )
- * @author (Sharol Ochoa)
+ * @author Santiago Garcia Castañeda
+ * @author Sharol Ochoa
  * @version 1.0
  */
 public class main {
