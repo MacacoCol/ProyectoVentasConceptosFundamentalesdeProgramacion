@@ -12,8 +12,8 @@ import java.util.Random;
  * Todos los archivos se guardan en la carpeta del proyecto.
  *
  * @author Julian David Gutierrez Forero
- * @author (Satiago Garcia Castañeda)
- * @author (Sharol Ochoa)
+ * @author Satiago Garcia Castañeda
+ * @author Sharol Ochoa
  * @version 1.0
  */
 public class GenerateInfoFiles {
